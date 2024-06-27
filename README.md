@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 <h2 align=center>Contact</h2>
 <div align=center>
-<a href="yeoinho75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:yeoinho75@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://velog.io/@qweasfjbv/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://qweasfjbv.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </div>
 
 <br>
 
-<h2 align=center>Teck Stack</h2>
+<h2 align=center>Tech Stack</h2>
 <div align=center>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
