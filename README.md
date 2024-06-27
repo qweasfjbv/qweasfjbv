@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=qweasfjbv" alt="Solved.ac 프로필" style="height: 170px; width: auto; display: inline-block; vertical-align: middle; margin-top: auto; margin-bottom: auto; padding-top: auto; padding-bottom:auto;">
+    <a href="https://solved.ac/profile/qweasfjbv"><img src="http://mazassumnida.wtf/api/generate_badge?boj=qweasfjbv" alt="Solved.ac 프로필" style="height: 170px; width: auto; display: inline-block; vertical-align: middle; margin-top: auto; margin-bottom: auto; padding-top: auto; padding-bottom:auto;"></a>
     <img src="https://github-readme-stats.vercel.app/api?username=qweasfjbv&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" style="height: 170px; width: auto; display: inline-block; vertical-align: top;">
 </div>
 <div align=center>
